@@ -1,0 +1,24 @@
+h1 {
+	font-size: 36px;
+	font-style: italic;
+}
+
+body {
+  text-align: center;
+  background: url("http://storage.pardot.com/139931/24280/hbg_home.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: gotham;
+}
+
+hr {
+  width: 840px;
+}
+
+p {
+  font-size: 22px;
+}
+
+a {
+	color: white;
+}
