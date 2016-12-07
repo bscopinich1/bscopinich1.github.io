@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+h1 {
+	font-size: 36px;
+	font-family: gotham;
+}
+
+body {
+  text-align: center;
+  background: url("http://storage.pardot.com/139931/24280/hbg_home.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: gotham-book;
+}
+
+hr {
+  width: 840px;
+}
+
+ul {
+	font-family: 'EB Garamond';
+	font-size: 18px
+}
+
+p {
+  font-size: 22px;
+  font-family: gotham-medium;
+}
+
+a {
+	color: white;
+}
